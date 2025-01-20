@@ -1,2 +1,2 @@
 # Ishwaree-patil-Resume
-This is my Resume build using Html ,Css  and JavaScript
+This is Interactive and Responsive Resume web page build using Html ,Css  and JavaScript
